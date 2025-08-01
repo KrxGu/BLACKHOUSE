@@ -324,12 +324,6 @@ This project demonstrates understanding of:
 ## 📞 **Contact**
 
 **Krish Gupta**  
-📧 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn]  
-💻 GitHub: [Your GitHub]  
-
-*"In quantitative trading, correctness is non-negotiable, but speed separates the profitable from the obsolete."*
+📧 Email: krishgupta2832@gmail.com
 
 ---
-
-**⭐ This implementation prioritizes production-ready code quality over academic optimization, demonstrating the engineering mindset essential for high-stakes financial technology.**
