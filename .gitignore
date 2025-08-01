@@ -1,0 +1,41 @@
+# Build artifacts
+reconstruct_mbp
+run_tests
+*.o
+*.a
+*.so
+*.dylib
+
+# Output files
+*.csv
+*.out
+benchmark_output.csv
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# IDE files
+.vscode/
+.idea/
+*.xcodeproj/
+*.xcworkspace/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# Submission folder (since it's just a copy)
+submission/
+blockhouse_submission.zip
+
+# Test data (keep sample but exclude large files)
+data/mbo.csv
+data/mbp.csv 
